@@ -35,6 +35,7 @@ export const SignupTextBox = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 12px 0px;
 `;
 
 export const HelperText = styled.p`
