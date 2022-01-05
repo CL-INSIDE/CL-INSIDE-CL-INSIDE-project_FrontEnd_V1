@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const LoginWrapper = styled.div`
   width: 253.6px;
-  //height: 169.4px;
   border: none;
   border: 1px solid #4527a0;
   text-align: center;
