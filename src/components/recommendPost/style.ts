@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ImageBox = styled.div`
   width: 236px;
-  height: 142px;
+  height: 124px;
   position: relative;
   background-color: #b7b7b7;
   cursor: pointer;
