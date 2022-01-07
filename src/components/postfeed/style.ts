@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const PostWrapper = styled.div`
   display: flex;
-  width: 51%;
+  width: 734.4px;
   border-bottom-style: solid;
   border-bottom-color: #707070;
   border-bottom-width: 1px;
