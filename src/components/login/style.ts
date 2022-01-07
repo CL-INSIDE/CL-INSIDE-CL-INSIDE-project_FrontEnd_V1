@@ -1,7 +1,10 @@
 import styled from "styled-components";
 
 export const LoginWrapper = styled.div`
+  margin-top: 60px;
+  margin-left: 20px;
   width: 253.6px;
+  height: 194px;
   border: none;
   border: 1px solid #4527a0;
   text-align: center;
@@ -9,6 +12,7 @@ export const LoginWrapper = styled.div`
 `;
 
 export const LoginInput = styled.input`
+  padding: 0 8px;
   width: 215.2px;
   height: 36px;
   outline: none;
