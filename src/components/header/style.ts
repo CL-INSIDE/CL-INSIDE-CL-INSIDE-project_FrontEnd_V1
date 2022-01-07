@@ -7,7 +7,7 @@ export const HeaderWrapper = styled.div`
 export const HeaderTextBox = styled.div`
   width: 471.1px;
   height: 40px;
-  margin-left: 10%;
+  margin-left: 15%;
   display: flex;
   justify-content: space-between;
 `;
