@@ -2,6 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 const global = createGlobalStyle`
 * {
+  font-family: "Noto Sans CJK Kr";
   margin: 0;
   padding: 0;
   outline: none;
@@ -13,7 +14,7 @@ input[type=number] {
   -moz-appearance: textfield;
 }
     padding: 0;
-    margin: 0: 
+    margin: 0;
     box-sizing: border-box;
     border: none;
     html, body {
