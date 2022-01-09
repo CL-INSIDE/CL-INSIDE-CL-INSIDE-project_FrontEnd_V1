@@ -17,3 +17,19 @@ export const CategoryText = styled.p`
   padding-bottom: 8px;
   margin: 24px 0px 0px;
 `;
+
+//Pagination
+export const Pagination = styled.div`
+  margin: 36px 0;
+  display: flex;
+  text-align: center;
+`;
+
+export const PaginationText = styled.p`
+  width: 1440px;
+  font-family: "Noto Sans CJK KR";
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 6px;
+  cursor: pointer;
+`;

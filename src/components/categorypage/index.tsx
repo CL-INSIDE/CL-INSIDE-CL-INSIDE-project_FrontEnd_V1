@@ -1,6 +1,7 @@
 import * as S from "./style";
 import PostFeed from "../postfeed";
 import Login from "../login";
+import Pagination from "./Pagination";
 
 const CategoryPage = () => {
   return (
@@ -13,9 +14,20 @@ const CategoryPage = () => {
           <PostFeed></PostFeed>
           <PostFeed></PostFeed>
           <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
+          <PostFeed></PostFeed>
         </S.CategoryWrapper>
         <Login></Login>
       </S.PageWrapper>
+      <Pagination></Pagination>
     </>
   );
 };
