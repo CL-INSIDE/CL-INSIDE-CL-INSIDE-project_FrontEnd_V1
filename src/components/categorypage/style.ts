@@ -20,13 +20,14 @@ export const CategoryText = styled.p`
 
 //Pagination
 export const Pagination = styled.div`
+  width: 100%;
   margin: 36px 0;
   display: flex;
-  text-align: center;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const PaginationText = styled.p`
-  width: 1440px;
   font-family: "Noto Sans CJK KR";
   font-size: 16px;
   font-weight: 500;
