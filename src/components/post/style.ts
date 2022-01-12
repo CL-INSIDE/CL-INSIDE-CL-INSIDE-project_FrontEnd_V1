@@ -13,3 +13,9 @@ export const Title = styled.p`
   border-bottom: 2px solid #4527a0;
   padding-bottom: 8px;
 `;
+
+export const Category = styled.p`
+  font-size: 12px;
+  padding-bottom: 8px;
+  color: #707070;
+`;
