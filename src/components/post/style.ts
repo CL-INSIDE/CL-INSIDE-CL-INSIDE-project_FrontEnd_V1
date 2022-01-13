@@ -14,7 +14,7 @@ export const Title = styled.p`
   padding-bottom: 8px;
 `;
 
-export const Category = styled.p`
+export const Text = styled.p`
   font-size: 12px;
   padding-bottom: 8px;
   color: #707070;
