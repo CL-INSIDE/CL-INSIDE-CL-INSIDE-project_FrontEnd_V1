@@ -16,6 +16,11 @@ export const Title = styled.p`
 
 export const Text = styled.p`
   font-size: 12px;
-  padding-bottom: 8px;
   color: #707070;
+  margin-right: 8px;
+`;
+
+export const TextBox = styled.div`
+  display: flex;
+  margin-top: 12px;
 `;
